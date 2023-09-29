@@ -1,6 +1,6 @@
 let userInfo = {};
 
-for (let i = 1; i <= 3; i++) {
+for (let i = 1; i <= 10; i++) {
   console.clear();
   id = i;
   userInfo[id] = {};
